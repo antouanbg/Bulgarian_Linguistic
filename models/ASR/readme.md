@@ -1,3 +1,3 @@
-Models used for ASR:
+Models used for Bulgarian ASR:
 ______________________
-Acoustic and language models avaialble here
+Acoustic, G2P and language models are all avaialble here!
