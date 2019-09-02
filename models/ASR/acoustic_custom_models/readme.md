@@ -4,6 +4,6 @@ ________
 
 Our backup - https://s3.eu-central-1.amazonaws.com/daneda.com/datasets/ASR/BG_Acustic_Model/Pretrained_Bulgarian_Acoustic_model/bulgarian.zip
 
-Original link: https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/models/ASR/acoustic_custom_models/bulgarian.zip
+Original link - https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/models/ASR/acoustic_custom_models/bulgarian.zip
 
 2. 
