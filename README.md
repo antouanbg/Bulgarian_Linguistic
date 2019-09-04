@@ -10,4 +10,5 @@ ________
 Може да ми пишете на: antouan.bg@gmail.com за повече информация или ако желаете да Ви включа като Collaborators.
 
 Sofia, Sep, 2019
+
 [Антуан Ангелов](https://www.linkedin.com/in/antouan/)
