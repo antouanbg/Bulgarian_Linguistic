@@ -1,4 +1,4 @@
-# Collection of Bulgarian Linguistic Corpus and Models
+# Collection of Bulgarian Corpus and Models for ASR, TTS and NLP tasks.
 You may find here all opensource and publically available Bulgarian datasets and models used for ASR, TTS, NLP and Machine Translations including Multimedia Corpus of Spoken Bulgarian. 
 
 If you are having a publically available dataset and would like to share with us please let me know.
