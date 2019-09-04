@@ -1,4 +1,4 @@
-# Collection of Linguistic Bulgarian Datasets (corpora) and Models
+# Collection of Bulgarian Linguistic Datasets, Corpora and Models
 You may find here all opensource and publically available Bulgarian datasets and models used for ASR, TTS, NLP and Machine Translations. Thanks to all colleagues in the linguistic and ML community. 
 If you are having a publically available dataset and would like to share with us please let me know. 
 __________________________
