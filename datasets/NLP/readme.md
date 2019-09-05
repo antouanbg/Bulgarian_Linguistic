@@ -8,7 +8,8 @@ Stemming for Bulgarian language
 -------------------------------
 Implementation of Preslav Nakov's BulStem in Python - [BulStem: Inflectional Stemmer For Bulgarian](http://people.ischool.berkeley.edu/~nakov/bulstem)
 
-Our archive of Preslav Bulstem [repo](https://github.com/peio/PyBulStem) is available [here](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/PyBulStem-master.zip)
+Our archive of Preslav Bulstem [repo](https://github.com/peio/PyBulStem) is available [here](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/PyBulStem-master.zip).
+
 [The stemmer itself - JDK 1.4, provided by Alexander Alexandrov](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/Stemmer_BG.java)
 
 #Thanks to: [Preslav Nakov](https://github.com/peio) and Alexander Alexandrov
