@@ -8,12 +8,12 @@ A frequency list of the first 100 000 Cyrillic tokens BTB-FreqList as well as st
 ________
 Stemming for Bulgarian language
 -------------------------------
-Implementation of Preslav Nakov's BulStem in Python - [BulStem: Inflectional Stemmer For Bulgarian](http://people.ischool.berkeley.edu/~nakov/bulstem)
+Implementation of Preslav Nakov's BulStem in Python - [BulStem](http://people.ischool.berkeley.edu/~nakov/bulstem)
 
 #Files: &nbsp;
 1. [PyBulStem-master.zip](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/PyBulStem-master.zip)
 
-2. [The stemmer itself - JDK 1.4, provided by Alexander Alexandrov](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/Stemmer_BG.java)
+2. The stemmer source dode with JDK 1.4, provided by Alexander Alexandrov, (Stemmer_BG.java)(https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/Stemmer_BG.java)
 
 #Thanks to: [Preslav Nakov](https://github.com/peio) and Alexander Alexandrov
 ________
