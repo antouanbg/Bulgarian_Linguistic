@@ -13,3 +13,7 @@ Our archive of Preslav Bulstem [repo](https://github.com/peio/PyBulStem) is avai
 [The stemmer itself - JDK 1.4, provided by Alexander Alexandrov](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/Stemmer_BG.java)
 
 #Thanks to: [Preslav Nakov](https://github.com/peio) and Alexander Alexandrov
+________
+POS (part-of-speech) tagger for Bulgarian language
+-------------------------------
+The TreeTagger is a tool for annotating text with part-of-speech and lemma information. It was developed by Helmut Schmid in the TC project at the Institute for Computational Linguistics of the University of Stuttgart. The TreeTagger has been successfully used to tag Bulgarian as well.
