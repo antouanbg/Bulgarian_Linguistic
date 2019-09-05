@@ -1,4 +1,4 @@
-# "All in one place" collection and resources of Bulgarian Corpus, Models, datasets for ASR, TTS and NLP tasks together with the links of the tools/apps.
+# "All in one place" collection and resources of Bulgarian Corpus, Models, Datasets used for ASR, TTS and NLP tasks together with the links of the tools/apps.
 You may find here publically available different Bulgarian datasets and models used for ASR, TTS, and NLP tasks together with open source tools and apps. I hope to publish also Multimedia Corpus of Spoken Bulgarian in different domains like SmartHome for example.
 
 If you are having a publically available dataset and would like to share with us please let me know.
