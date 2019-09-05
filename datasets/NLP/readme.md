@@ -1,3 +1,15 @@
 Archive with Bulgarian frequency and stopword lists.
 A frequency list of the first 100 000 Cyrillic tokens in the archive are available here: BTB-FreqList in UTF-16. Free for research purposes. A stopword list based on the archive are available here: BTB-StopWordList in UTF-16. Free for research purposes.
-#Thanks to: http://bultreebank.org/bg/resources/
+#Thanks to: http://bultreebank.org/
+________
+Stemming for Bulgarian language
+-------------------------------
+Implementation of Preslav Nakov's BulStem in Python. 
+More information about it: http://lml.bas.bg/~nakov/bulstem/index.html
+Paper: BulStem: Inflectional Stemmer For Bulgarian http://people.ischool.berkeley.edu/~nakov/bulstem/
+
+Design and Evaluation of Inflectional Stemmer for Bulgarian (PDF)
+The stemming rules (ZIP)
+The stemmer itself (Perl) (Ready to try, with a sample input and output: Windows-1251 and an experimental UTF-8)
+The stemmer itself (Java, JDK 1.4), provided by Alexander Alexandrov
+#Thanks to: 
