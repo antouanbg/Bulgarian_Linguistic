@@ -20,10 +20,17 @@ ________
 POS (part-of-speech) tagger for Bulgarian language
 -------------------------------
 The TreeTagger is a tool for annotating text with part-of-speech and lemma information. It was developed by Helmut Schmid in the TC project at the Institute for Computational Linguistics of the University of Stuttgart. The TreeTagger has been successfully used to tag Bulgarian as well.
-
 ________
 OpenOffice.org files/data with the list of Bulgarian Words with synonyms
 -------------------------------
 Това е пакет за проверка на правописа, сричкопренасяне и синонимен речник за офис пакета OpenOffice.org. Повечето дистрибуции на Линукс се разпространяват с OpenOffice.org. В Архива файловете bg_BG.dic и bg_BG.aff са за проверка на правописа, hyph_bg_BG.dic - за сричкопренасянето  а th_bg_BG.dat и th_bg_BG.idx са за синонимния речник.
 
 #Files: [OOo-full-pack-bg-4.3.zip](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/OOo-full-pack-bg-4.3.zip)
+________
+Bulgarian language support
+-------------------------------
+The goal of this [project](https://sourceforge.net/projects/bgoffice/) is to provide spell check, grammar check and hyphenation for Bulgarian language for Open Source products such as OpenOffice.org, aspell, ispell etc.
+
+#Files: [full-pack.tar.bz2](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/full-pack.tar.bz2)
+
+#Thanks Project Members: Anton Zinoviev, Iliyan Peychev, Ivan Dimov, Mikhail Balabanov, Radostin Radnev, Vladimir Georgiev Georgiev, sahwar, Стоян (admin)
