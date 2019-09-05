@@ -1,10 +1,10 @@
 # "All in one place" collection and resources of Bulgarian Corpus, Models, Datasets used for ASR, TTS and NLP tasks together with the links of the tools/apps.
-You may find here publically available different Bulgarian datasets and models used for ASR, TTS, and NLP tasks together with open source tools and apps. I hope to publish also Multimedia Corpus of Spoken Bulgarian in different domains like SmartHome for example.
+You may find here publically available different Bulgarian datasets and models used for ASR, TTS, and NLP tasks together with open source tools and apps. I hope to publish also Multimedia Corpus of Spoken Bulgarian in different proffesional domains.
 
 If you are having a publically available dataset and would like to share with us please let me know.
 It will be updated frequently. So please star this repo ;)
 __________________________
-Започвам да систематизирам публично отворени и достъпни готови модели и данни, които откривам в интернет пространство заедно с някои по известни програми за ASR, TTS, NLP и машинен превод на български език. Тук ще кача и синхронизирани мултимедийни и текстови файлове нужни за ASR и NLP в различни тематики - примерно SmartHome където ще се контролират устройства с реч на бъгарски език. 
+Започвам да систематизирам публично отворени и достъпни готови модели и данни, които откривам в интернет пространство заедно с някои по известни програми за ASR, TTS, NLP и машинен превод на български език. Тук ще кача и синхронизирани мултимедийни и текстови файлове нужни за ASR и NLP в различни тематики. 
 В папката docs ще има всички необходими приложения, които поддържат БГ език и работа с данни и модели на български. 
 Поради факта, че някои линкове с времето няма да са актуални, като бекъп ще ги качвам в моето репо тук и в gitlab.
 Приканвам всички колеги да се включат в инициативата за да актуализираме и попълним наличните до момента разработки и данни в тази посока.
