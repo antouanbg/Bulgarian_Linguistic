@@ -1,7 +1,8 @@
-Files with Bulgarian frequency and stopword lists - stopwords_and_ferqency_list_.zip
+Bulgarian frequency and stopword lists
 ---------
 A frequency list of the first 100 000 Cyrillic tokens BTB-FreqList as well as stopword list BTB-StopWordList (UTF-16). Free for research purposes. Archive is available [here](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/stopwords_and_ferqency_list_.zip)
 
+# Files: stopwords_and_ferqency_list_.zip
 #Thanks to: http://bultreebank.org
 ________
 Stemming for Bulgarian language
