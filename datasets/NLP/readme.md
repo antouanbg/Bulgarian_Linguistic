@@ -7,9 +7,7 @@ Stemming for Bulgarian language
 -------------------------------
 Implementation of Preslav Nakov's BulStem in Python. 
 [BulStem: Inflectional Stemmer For Bulgarian](http://people.ischool.berkeley.edu/~nakov/bulstem)
+
 [Design and Evaluation of Inflectional Stemmer for Bulgarian](Design and Evaluation of Inflectional Stemmer for Bulgarian)
 
-The stemming rules (ZIP)
-The stemmer itself (Perl) (Ready to try, with a sample input and output: Windows-1251 and an experimental UTF-8)
-The stemmer itself (Java, JDK 1.4), provided by Alexander Alexandrov
 #Thanks to: 
