@@ -13,7 +13,7 @@ Implementation of Preslav Nakov's BulStem in Python - [BulStem](http://people.is
 #Files: &nbsp;
 1. [PyBulStem-master.zip](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/PyBulStem-master.zip)
 
-2. The stemmer source dode with JDK 1.4, provided by Alexander Alexandrov, [Stemmer_BG.java](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/Stemmer_BG.java)
+2. The stemmer source code itself (JDK 1.4), provided by Alexander Alexandrov, [Stemmer_BG.java](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/Stemmer_BG.java)
 
 #Thanks to: [Preslav Nakov](https://github.com/peio) and Alexander Alexandrov
 ________
