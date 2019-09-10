@@ -6,7 +6,7 @@ You may find here publically available different Bulgarian datasets and models u
 If you are having a publically available dataset and would like to share with us please let me know.
 It will be updated frequently. So please star this repo!
 
-_
+__
 <p>Систематизирани, публично отворени и достъпни готови модели и данни, които може да се открият в интернет пространство заедно с някои по известни програми за ASR, TTS, NLP и машинен превод за български език. Тук ще има и синхронизирани мултимедийни и текстови файлове нужни за ASR.</p>
 В папката docs ще има коментар за всички приложения, които поддържат БГ език и работа с данни и модели на български. 
 
