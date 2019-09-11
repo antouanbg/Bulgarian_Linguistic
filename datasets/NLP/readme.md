@@ -48,3 +48,5 @@ Wordnet	Lang Synsets Words Senses	Core Licence Data Citation
 BulTreeBank Wordnet (BTB-WN)	bul	4,959	6,720	8,936	99%	CC BY 3.0	[bul.zip](http://compling.hss.ntu.edu.sg/omw/wns/bul.zip) [+xm](http://compling.hss.ntu.edu.sg/omw/wns/bul+xml.zip)	cite: bul; [.bib](http://compling.hss.ntu.edu.sg/omw/wns/bul/citation.bib)
 
 Backup of the files in my repo [bul.zip](https://github.com/antouanbg/Bulgarian_Linguistic/blob/master/datasets/NLP/bul.zip) [+xm](https://github.com/antouanbg/Bulgarian_Linguistic/blob/master/datasets/NLP/bul%2Bxml.zip)	cite: bul; [.bib](https://github.com/antouanbg/Bulgarian_Linguistic/blob/master/datasets/NLP/citation.bib)
+
+You can access the wordnets through the (python) Natural Language Tool-Kit wordnet interface (NLTK).
