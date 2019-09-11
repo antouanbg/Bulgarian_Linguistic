@@ -4,7 +4,7 @@ Thanks to [Stefan Schweter](https://github.com/stefan-it) repository as a part o
 This repository will include various language models (forward and backward) that can be used with flair. It will be updated frequently. 
 trained a Bulgarian language model with texts from Wikipedia, Europarl and SETimes. It is a relatively small corpus with 66 million tokens and was trained for ~ 3 days.
 
-That Bulgarian model for pos tagging on universal dependencies (version 1.2) has  accuracy was ~ 98 % with fasttext embeddings only. In combination with the forward and backward language model the final accuracy is 99.08 % on the test set. Here are some comparisons with other papers (UD 1.2, Bulgarian):
+That [Bulgarian model](https://github.com/novacombg/flair-experiments/tree/master/ud-bulgarian) for pos tagging on universal dependencies (version 1.2) has  accuracy was ~ 98 % with fasttext embeddings only. In combination with the forward and backward language model the final accuracy is 99.08 % on the test set. Here are some comparisons with other papers (UD 1.2, Bulgarian):
 *System	Final Accuracy
 *Yu et. al (2017)	98.20
 *Plank et. al (2016)	98.23
