@@ -38,3 +38,11 @@ ________
 Corpus Crawler
 -------------------------------
 This Google project called [Corpus Crawler](https://github.com/novacombg/corpuscrawler) in github contains large samples of “real world” text including [Bulgarian](http://www.gstatic.com/i18n/corpora/wordcounts/bg.txt)!
+________
+Open Multilingual Wordnet
+-------------------------------
+[Open Multilingual Wordnet](http://compling.hss.ntu.edu.sg/omw/) provides access to open wordnets in a variety of languages,  including [Bulgarian BulTreeBank Wordnet]() called BTB-WN from [Bultreebank](http://www.bultreebank.org/). 
+Wordnet	L                     ang	Synsets	Words	Senses	Core	Licence	Data	    Citation
+BulTreeBank Wordnet (BTB-WN)	bul	4,959	6,720	8,936	99%	CC BY 3.0	[bul.zip](http://compling.hss.ntu.edu.sg/omw/wns/bul.zip) [+xm](http://compling.hss.ntu.edu.sg/omw/wns/bul+xml.zip)	cite: bul; [.bib](http://compling.hss.ntu.edu.sg/omw/wns/bul/citation.bib)
+
+
