@@ -3,4 +3,4 @@ Detail Intro can be found [here](http://www.fon.hum.uva.nl/praat/manual/Intro.ht
 Check this [link](http://www.mauriciofigueroa.cl/04_scripts/04_scripts.html) with usefull links in regards to Praat.
 ___
 
-More speech manipulation tools are avaialvle at this [link from UCL](https://www.phon.ucl.ac.uk/resource/courses.php)
+More speech manipulation tools are avaialvle at this [link from UCL](https://www.phon.ucl.ac.uk/resource/courses.php) including [SAMPA Project](https://www.phon.ucl.ac.uk/home/sampa/index.html) - SAMPA (Speech Assessment Methods Phonetic Alphabet) is a machine-readable phonetic alphabet including [Bulgarian](https://www.phon.ucl.ac.uk/home/sampa/bul-uni.htm)
