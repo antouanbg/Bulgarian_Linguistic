@@ -34,3 +34,7 @@ The goal of this [project](https://sourceforge.net/projects/bgoffice/) is to pro
 #Files: [full-pack.tar.bz2](https://github.com/antouanbg/Bulgarian_Datasets_Models/blob/master/datasets/NLP/full-pack.tar.bz2)
 
 #Thanks Project Members: Anton Zinoviev, Iliyan Peychev, Ivan Dimov, Mikhail Balabanov, Radostin Radnev, Vladimir Georgiev Georgiev, sahwar, Стоян (admin)
+________
+Corpus Crawler
+-------------------------------
+This Google project called [Corpus Crawler](https://github.com/novacombg/corpuscrawler) in github contains large samples of “real world” text including [Bulgarian](http://www.gstatic.com/i18n/corpora/wordcounts/bg.txt)!
